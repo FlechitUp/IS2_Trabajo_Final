@@ -1,4 +1,4 @@
-Sprint 1
+Sprint  1
 Basic Node.js Server Seed
 =========================
 
